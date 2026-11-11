@@ -1,2 +1,3 @@
 voici explicattion de ma pipeline
  c est une super pipe line
+Voici un changement fait en ligne pour la formation
